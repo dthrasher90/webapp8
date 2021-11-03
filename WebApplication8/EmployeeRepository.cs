@@ -29,6 +29,11 @@ namespace WebApplication8
                new { id=employeeToInsert.Id,  firstname = employeeToInsert.FirstName, lastname = employeeToInsert.LastName, username = employeeToInsert.Username, password= employeeToInsert.Password });
 
 
-    }
+         }
+
+        public void Submit_Click()
+        {
+            Console.WriteLine("clik clik clik");
+        }
 }
 }

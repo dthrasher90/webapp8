@@ -4,11 +4,17 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Data.SqlClient;
+
+using System.Configuration;
+using System.Data;
 
 namespace WebApplication8.Models
 {
     public class Employee
     {
+       
+
         public Employee()
         {
 
@@ -16,7 +22,7 @@ namespace WebApplication8.Models
 
         public int Id { get; set; }
 
-        [Display(Name = "FirstName"]
+        [Display(Name = "FirstName")]
         [Required(ErrorMessage = "Please enter First Name")]
         public string FirstName { get; set; }
 
@@ -37,5 +43,7 @@ namespace WebApplication8.Models
         [DataType(DataType.Password)]
         [Compare("Password", ErrorMessage = "Passwords do not match please try again")]
         public string ConfirmPassword { get; set; }
+
+      
     }
 }

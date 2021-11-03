@@ -128,7 +128,14 @@ C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\bin\Debug\net5
 C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\obj\Debug\net5.0\Razor\Views\Employee\InsertEmployee.cshtml.g.cs
-C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\obj\Debug\net5.0\WebApplication8.csproj.AssemblyReference.cache
 C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\obj\Debug\net5.0\Razor\Index.cshtml.g.cs
+C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\obj\Debug\net5.0\Razor\Views\Employee\Login.cshtml.g.cs
+C:\Users\Dthrasher90\source\repos\WebApplication8\WebApplication8\obj\Debug\net5.0\Razor\Views\Employee\Success.cshtml.g.cs
